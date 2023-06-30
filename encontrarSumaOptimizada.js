@@ -15,7 +15,7 @@ function encontrarSuma(array, X) {
 }
 
 const array = [10, 20, 40, 50, 80];
-const X = 130;
+const X = 30;
 
 if (encontrarSuma(array, X)) {
     console.log("Sí, es posible formar el número X usando la suma de 2 elementos en el array.");
